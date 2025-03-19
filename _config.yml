@@ -117,27 +117,21 @@ author:
   name             : "Danil Ermolin"
   avatar           :  "https://avatars.githubusercontent.com/u/94500841?v=4"
   bio              : "Security Engineer"
-  location         : "NYC"
-  email            :
+  location         : "NYC, United States"
+  email            : "ermodanil@gmail.com"
   links:
-    - label: "ermodanil@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "ermodanil@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/danace38"
+    
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ermodanil/"
+
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
