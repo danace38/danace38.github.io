@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Site Settings
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Danil Ermolin"
   avatar           :  "https://avatars.githubusercontent.com/u/94500841?v=4"
-  bio              : "Security Engineer"
+  bio              : "IT / Software Development / Cybersecurity"
   location         : "NYC, United States"
   email            : "ermodanil@gmail.com"
   links:
@@ -128,7 +128,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ermodanil/"
 
-    - label: "Website"
+    - label: "BS in Computer Science"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
 
@@ -160,6 +160,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
