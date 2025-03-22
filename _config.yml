@@ -128,10 +128,6 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ermodanil/"
 
-    - label: "BS in Computer Science"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-
 
 # Site Footer
 footer:
@@ -228,7 +224,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /aboutme/page:num/
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
